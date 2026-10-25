@@ -1,0 +1,3 @@
+Contains code from SANE (sane-backends 1.4.0), backend/pixma, GPL-2.0-or-later with the SANE linking exception.
+Modified: pixma_common.c (device list reduced to the mp150 sub-driver).
+Derived: io/pixma_io_android.c (replaces pixma_io_sanei.c; USB via Android UsbDeviceConnection through JNI).

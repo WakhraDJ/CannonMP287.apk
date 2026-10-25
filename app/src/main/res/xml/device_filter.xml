@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Canon PIXMA MP280 series: VID 0x04A9 (1193), PID 0x1746 (5958). -->
+    <usb-device vendor-id="1193" product-id="5958" />
+</resources>
